@@ -1,0 +1,8 @@
+# Large generated artifacts
+import/
+results/
+model/
+
+# Common large files
+*.parquet
+*.graphml

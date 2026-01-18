@@ -1,0 +1,14 @@
+httpx==0.27.0
+numpy==1.26.4
+openai==1.54.5
+pandas==2.2.2
+python-igraph==0.11.8
+scikit-learn==1.4.2
+scipy==1.11.4
+sentence-transformers==2.2.2
+spacy==3.7.4
+tqdm==4.67.1
+transformers==4.38.2
+huggingface-hub==0.20.3
+tokenizers==0.15.2
+pyarrow==14.0.2
